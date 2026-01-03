@@ -1,12 +1,22 @@
 # Nya Skin for Heart Beat Quest
 
-You nya love this skin!
+You nyan love this skin!
 
-# Usage
+# Nyanview
+Unity preview:  
+![UnityPreview](image.png)
+
+Game Preview:  
+![Low](image.low.png)  
+![High](image.high.png)  
+
+more rainbows = higher heart rate
+
+# Nyansage
 
 Select the `nyancat` UI in the game mod config. Will avaliable soon.
 
-# DIY nya
+# DIYnyan
 
 Open the project with `Unity 2021.3.16f1` and edit the `cat` prefab.
 
